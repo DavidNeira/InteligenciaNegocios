@@ -1,0 +1,30 @@
+2024-04-05 13:24:47,134 : WARN  : comm-pool-thread-1 :  : Node : CSV Reader : 3:1 : Please specify a file
+2024-04-05 13:25:52,806 : WARN  : comm-pool-thread-1 :  : Node : CSV Reader : 3:2 : Please specify a file
+2024-04-05 13:27:41,481 : WARN  : comm-pool-thread-3 :  : Node : Joiner : 3:3 : No join columns passed.
+2024-04-05 13:45:19,884 : WARN  : comm-pool-thread-6 :  : Node : GroupBy : 3:5 : No grouping column included. Aggregate complete table.
+2024-04-05 13:45:19,887 : WARN  : comm-pool-thread-6 :  : Node : GroupBy : 3:5 : No aggregation column defined
+2024-04-05 13:45:19,969 : WARN  : comm-pool-thread-6 :  : Node : GroupBy : 3:5 : Please select at least one group or aggregation column
+2024-04-05 13:51:29,689 : WARN  : KNIME-Worker-1 :  : BufferFromFileIteratorVersion20 : Joiner : 3:3 : Invalid access on table, iterator has been closed
+2024-04-05 13:56:23,670 : WARN  : KNIME-Worker-3-Joiner 3:3 :  : Node : Joiner : 3:3 : Execution canceled
+2024-04-05 13:57:31,187 : WARN  : KNIME-Worker-3-Joiner 3:3 :  : Node : Joiner : 3:3 : Node created an empty data table.
+2024-04-05 14:22:49,759 : WARN  : comm-pool-thread-25 :  : Node : CSV Writer : 3:9 : Please specify a file
+2024-04-05 14:24:44,773 : WARN  : comm-pool-thread-26 :  : Node : CSV Reader : 3:10 : Please specify a file
+2024-04-05 14:29:41,180 : WARN  : comm-pool-thread-29 :  : Node : Joiner : 3:13 : No join columns passed.
+2024-04-05 14:30:29,307 : WARN  : comm-pool-thread-29 :  : Node : Joiner : 3:13 : No join columns passed.
+2024-04-05 14:30:51,044 : WARN  : comm-pool-thread-29 :  : Node : Joiner : 3:13 : No join columns passed.
+2024-04-05 14:37:42,040 : WARN  : KNIME-Worker-26-Missing Value 3:14 :  : Node : Missing Value : 3:14 : Execution canceled
+2024-04-05 14:38:35,735 : WARN  : KNIME-Worker-26-Missing Value 3:14 :  : Node : Missing Value : 3:14 : Column "RegionProveedor" still contains missing values.
+Column "ActividadProveedor" still contains missing values.
+2024-04-05 14:40:43,726 : WARN  : KNIME-Worker-28-Missing Value 3:14 :  : Node : Missing Value : 3:14 : The current settings use missing value handling methods that cannot be represented in PMML 4.2.
+2024-04-05 15:39:06,953 : WARN  : comm-pool-thread-43 :  : Node : CSV Writer : 3:15 : Please specify a file
+2024-04-05 15:51:41,638 : WARN  : comm-pool-thread-2 :  : Node : Joiner : 3:12 : No join columns passed.
+2024-04-05 15:52:27,434 : WARN  : comm-pool-thread-1 :  : Node : Joiner : 3:12 : No join columns passed.
+2024-04-05 15:52:29,730 : WARN  : KNIME-Worker-0-Column Filter 3:11 :  : Node : Joiner : 3:12 : No join columns passed.
+2024-04-05 15:52:48,628 : WARN  : comm-pool-thread-1 :  : Node : Joiner : 3:12 : No join columns passed.
+2024-04-05 15:52:56,192 : WARN  : main :  : Node : Joiner : 3:12 : No join columns passed.
+2024-04-05 15:53:20,266 : WARN  : KNIME-Worker-0-Missing Value 3:13 :  : Node : Missing Value : 3:13 : The current settings use missing value handling methods that cannot be represented in PMML 4.2.
+2024-04-05 15:53:20,316 : WARN  : KNIME-Worker-0-Missing Value 3:13 :  : Node : Joiner : 3:12 : No join columns passed.
+2024-04-05 15:54:03,942 : WARN  : KNIME-Worker-0-Joiner 3:12 :  : Node : Joiner : 3:12 : Execution canceled
+2024-04-05 15:55:11,690 : WARN  : KNIME-Worker-1-Missing Value 3:13 :  : Node : Missing Value : 3:13 : The current settings use missing value handling methods that cannot be represented in PMML 4.2.
+2024-04-05 15:57:13,635 : WARN  : ModalContext :  : Node : Missing Value : 3:13 : The current settings use missing value handling methods that cannot be represented in PMML 4.2.
+2024-04-05 15:58:47,203 : WARN  : ForkJoinPool.commonPool-worker-3 :  : ProfilesSettingsPage :  :  : Could not check https://api.hub.knime.com/knime/rest for customization profiles because user is not logged in.

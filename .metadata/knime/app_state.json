@@ -1,0 +1,12 @@
+{
+  "version" : "5.2.2.v202403071655",
+  "projects" : [ {
+    "name" : "KNIME_project",
+    "active" : true,
+    "origin" : {
+      "providerId" : "local",
+      "spaceId" : "local",
+      "relativePath" : "KNIME_project"
+    }
+  } ]
+}

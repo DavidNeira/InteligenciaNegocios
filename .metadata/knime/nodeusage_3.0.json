@@ -1,0 +1,80 @@
+{
+    "version": "5.2.2.v202403071655",
+    "created": "2024-04-05 16:24",
+    "nodestats": {
+        "nodes": [
+            {
+                "id": "org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory",
+                "nodename": "Column Filter",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 6,
+                "nrcreated": 0,
+                "successor": "org.knime.base.node.preproc.duplicates.DuplicateRowFilterNodeFactory",
+                "successornodename": "Duplicate Row Filter"
+            },
+            {
+                "id": "org.knime.base.node.preproc.joiner3.Joiner3NodeFactory",
+                "nodename": "Joiner",
+                "nrexecs": 2,
+                "nrfails": 1,
+                "exectime": 174089,
+                "nrcreated": 1,
+                "successor": "org.knime.base.node.preproc.joiner3.Joiner3NodeFactory",
+                "successornodename": "Joiner"
+            },
+            {
+                "id": "org.knime.base.node.preproc.pmml.missingval.compute.MissingValueHandlerNodeFactory",
+                "nodename": "Missing Value",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 21025,
+                "nrcreated": 1,
+                "successor": "org.knime.base.node.preproc.joiner3.Joiner3NodeFactory",
+                "successornodename": "Joiner"
+            },
+            {
+                "id": "org.knime.base.node.preproc.duplicates.DuplicateRowFilterNodeFactory",
+                "nodename": "Duplicate Row Filter",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 45579,
+                "nrcreated": 1,
+                "successor": "org.knime.base.node.preproc.pmml.missingval.compute.MissingValueHandlerNodeFactory",
+                "successornodename": "Missing Value"
+            },
+            {
+                "id": "org.knime.base.node.io.filehandling.csv.writer.CSVWriter2NodeFactory",
+                "nodename": "CSV Writer",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 108879,
+                "nrcreated": 0,
+                "successor": "n/a",
+                "successornodename": "n/a"
+            }
+        ],
+        "metaNodes": {
+        },
+        "wrappedNodes": {
+        },
+        "createdVia": {
+            "WEB_UI": 3,
+            "WEB_UI_QUICK_INSERTION_RECOMMENDED": 1
+        }
+    },
+    "uptime": 3049675,
+    "workflowsOpened": 2,
+    "remoteWorkflowsOpened": 0,
+    "columnarStorageWorkflowsOpened": 0,
+    "workflowsImported": 0,
+    "workflowsExported": 0,
+    "webUIPerspectiveSwitches": 2,
+    "javaUIPerspectiveSwitches": 2,
+    "lastUsedPerspective": "none",
+    "launches": 3,
+    "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
+    "timeSinceLastStart": 1027914,
+    "crashes": 0,
+    "properlyShutDown": false
+}

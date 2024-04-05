@@ -1,0 +1,5 @@
+C:\Users\bivs_\OneDrive - Universidad Arturo Prat\Inteligencia de Negocios\datos_final.csv
+C:\Users\bivs_\OneDrive - Universidad Arturo Prat\Inteligencia de Negocios\dataset_oc
+data_region
+C:\Users\bivs_\OneDrive - Universidad Arturo Prat\Inteligencia de Negocios\datos.csv
+C:\Users\bivs_\OneDrive - Universidad Arturo Prat\Inteligencia de Negocios\Instituciones_compradoras.csv

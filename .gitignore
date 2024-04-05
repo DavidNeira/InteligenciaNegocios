@@ -1,2 +1,7 @@
 datasets_full/
+
 dataset/
+dataset_oc/
+antiguo/
+KNIME_project/
+*.csv
